@@ -23,6 +23,7 @@ public class Student {
     private String name;
     @NotBlank
     private String email;
+    private String Phone;
 
 
 }
